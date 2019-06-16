@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/drmingo86/Azure%20Face%20API%20SDK/_apis/build/status/rdomingo1986.pipelines-java?branchName=master)](https://dev.azure.com/drmingo86/Azure%20Face%20API%20SDK/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
